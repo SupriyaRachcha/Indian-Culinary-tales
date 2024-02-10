@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* Navbar */
+/* .navbar{
+  b
+} */
+
+.logoIcon{
+  width: 60px;
+}
+.logoName{
+  width: 80px;
+}
+
+.menuNames{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  padding-left: 10px;
+}
+
+#masala{
+  width: 40px;
+}
+MenuBookIcon{
+  font-size: 50px;
+}
+
+#recipebook{
+  width: 30px;
+
+}
+
+#contact{
+  width: 32px;
+
+}
+
+#about{
+  width: 30px;
+}
+
+#community{
+  width: 30px;
+}
+
+.part{
+  border-left: 1px gray solid;
+}
